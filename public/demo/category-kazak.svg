@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="800" height="1000">
+  <rect width="400" height="500" fill="#7B2E36"/>
+  <path d="M134 112 L176 96 Q200 106 224 96 L266 112 L326 262 L298 274 L268 196 L268 386 L132 386 L132 196 L102 274 L74 262 Z M140 360 L260 360 M140 372 L260 372" fill="none" stroke="#E5DECF" stroke-width="2" stroke-linejoin="round"/>
+  <g font-family="Montserrat, Arial, sans-serif" fill="#E5DECF" opacity="0.75"><text x="200" y="462" text-anchor="middle" font-size="13" letter-spacing="4">DEMO GÖRSEL · DEMO IMAGE</text></g>
+</svg>
